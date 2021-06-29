@@ -1,0 +1,66 @@
+.A{
+  background-color: #e4f9f5;
+  padding-top: 50px;
+}
+
+
+
+body{
+  text-align: center;
+  margin: 0;
+}
+
+.cloudA{
+  position: absolute;
+  top: 80px;
+  right: 350px;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.cloudB{
+  position: absolute;
+  margin: auto;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  color: #66bfbf
+}
+
+h2{
+  color: #66bfbf;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3{
+  color: #11999e;
+}
+
+p{
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+}
+
+.C1{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+.code{
+  margin: auto;
+  width: auto;
+}
+.C2{
+  width: 25%;
+  margin: 100px auto 100px auto;
+}
+
+.code{
+  width: 25%;
+  float: left;
+}

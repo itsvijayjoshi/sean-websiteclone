@@ -1,0 +1,24 @@
+.A{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+.B{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+.C{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+body{
+  margin: 0;
+}
